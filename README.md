@@ -9,11 +9,11 @@
 
 #### Installation
 
- 1. ** Clone the repository ** 
+ 1. **Clone the repository** 
 
- 2. ** Download the olist.sqlite file https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database k**
+ 2. **Download the olist.sqlite file https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database**
  
- 3. ** Create and activate a virtual environment ** (optional, but recommended):
+ 3. **Create and activate a virtual environment** (optional, but recommended):
     - On Windows:
         
             venv\Scripts\activate
@@ -23,8 +23,8 @@
         
             source venv/bin/activate
         
-4. ** Install the requirement dependencies **
+4. **Install the requirement dependencies**
     - pip install -r requirements.txt
 
-5. ** Install Jupyter Notebook ** (if not already installed):
+5. **Install Jupyter Notebook** (if not already installed):
 6. Open the notebook
