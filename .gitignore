@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+venv/
+
+# ignore the sqlite file, it is too big
+
+olist.sqlite
